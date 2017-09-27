@@ -1,0 +1,3 @@
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+If there is no other version control system like git, I may try collaborating via code screenshots with annotations as aweful as that may sound. The annotating would be more customizable, but combining code into one master code would be a PITA.
