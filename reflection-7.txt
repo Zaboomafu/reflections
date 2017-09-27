@@ -1,0 +1,3 @@
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+I would want to make changes in a separate branch if I want to make changes/additions, while still monitoring what others are doing to their branches and to the master branch. Making changes directly on master results in a simpler and less complicated orginization of code.
